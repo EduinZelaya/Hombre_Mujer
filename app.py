@@ -5,12 +5,12 @@ from deepface import DeepFace
 from PIL import Image
 
 st.set_page_config(
-    page_title="Detector de Género con IA, Eduin Zelaya UNAH-CURC",
+    page_title="Detector de Género con IA",
     page_icon="👤",
     layout="centered",
 )
 
-st.title("👤 Detector de Género Facial con IA")
+st.title("👤 Detector de Género Facial con IA, Eduin Zelaya UNAH-CURC")
 st.write("Toma una foto con tu cámara para estimar el género con DeepFace.")
 
 
